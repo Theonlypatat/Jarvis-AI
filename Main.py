@@ -105,3 +105,5 @@ if __name__ == "__main__":
         elif 'open code' in query:
             codePath = "C:\\Users\\hp\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(codePath)            
+
+# Here you can change the code to a software just the codepath 
