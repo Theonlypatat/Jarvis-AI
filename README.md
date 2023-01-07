@@ -5,12 +5,18 @@ This is a AI made by Theonlypatat. It is used to do simple tasks such as open we
 # How to Use
 
  It can open webpages such as:
-1.) Youtube 
+1.) Youtube
+
 2.) Spotify
+
 3.) Reddit
+
 4.) Discord
+
 5.) Gmail
+
 6.) Wikipedia 
+
 (you can also say the name of the person/company) 
 
 Note: To trigger these commands "open 'The Name of the Website'"
