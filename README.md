@@ -29,8 +29,11 @@ Just say - Jarvis what is **the time**.
 
 Just Import these modules
 pip install pyttsx3
+
 pip install speechRecognition
+
 pip install wikipedia
+
 
 Thats all you can also add extra websites.
 
